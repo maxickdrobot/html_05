@@ -11,3 +11,8 @@ h1 + p {
 span ~ p {
     color: red;
 }
+
+.block p {
+    background-color: #2f2f2f;
+    color: wheat;
+}
